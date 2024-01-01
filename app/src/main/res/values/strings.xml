@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CountPointDistance</string>
+    <string name="header">Вычисление расстояния между двумя точками</string>
+    <string name="URL">https://worldlab.technolog.edu.ru/stud/group6/calculate.php</string>
+    <string name="point1">Точка 1:</string>
+    <string name="point2">Точка 2:</string>
+    <string name="result_default">0</string>
+    <string name="Calculate">Рассчитать</string>
+    <string name="x1">x1</string>
+    <string name="y1">y1</string>
+    <string name="z1">z1</string>
+    <string name="x2">x2</string>
+    <string name="y2">y2</string>
+    <string name="z2">z2</string>
+</resources>
